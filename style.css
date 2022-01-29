@@ -471,3 +471,20 @@ line-height: 60px;
     top: 540px;
   }
 }
+@media screen and (min-width: 1440px) {
+  .testimonial-container{
+    position: relative;
+  }
+  .item-1{
+    left: 50px;
+    top: 0px;
+  }
+  .item-2{
+    left: -400px;
+    top: 155px;
+  }
+  .item-3{
+    left: 51px;
+    top: 375px;
+  }
+}
