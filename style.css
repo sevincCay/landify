@@ -434,6 +434,21 @@ p {
   .testimonial-container {
     height: 982px;
   }
+  .testimonial-img{
+    left: 112px;
+    top: 64px;
+  }
+  .testimonial-header>h1{
+    top: 120px;
+    left: 216px;
+    width: 488px;
+    font-size: 48px;
+line-height: 60px;
+  }
+  .testimonial-header>p{
+    top:248px;
+    left: 216px;
+  }
   .item-1 {
     position: absolute;
     width: 488px;
